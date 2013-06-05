@@ -1,3 +1,0 @@
-This is a Multi-threaded web server that I wrote for my DePaul Class - Distributed Systems. It is my plan to continue to improve on this basic design and develop a more robust version. 
-
-Currently, this web server makes a dynamic index page of whatever directory it is started in. It then gives this index back to the client for navigating the file system (current directory and any sub-directories **NO super directories). The client then can access any files in those directories.

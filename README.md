@@ -20,5 +20,3 @@ Looking to the future:
 I hope to get some free time to continue to improve on this basic design. 
 
 Perhaps even develop a more robust version with more security built in. 
-
-  It then gives this index back to the client for  The client then can access any files in those directories.

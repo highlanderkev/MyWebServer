@@ -1,3 +1,5 @@
+package mywebserver;
+
 /*
  * MyWebServer.java
  * Attributed to Elliott, after Hughes, Shoffner, Winslow with *significant alterations* by Kevin Westropp
@@ -13,12 +15,9 @@ import java.util.*;
 
 /**
  * Basic data holder/transfer object for storing data and sending
- * data between server and client. Note: Had to change the name
- * or else it throws an exception because two of the same classes, 
- * if you are working out of the same directory and the BChandler
- * has the same class name.
+ * data between server and client.
  */
-class myDaArray {
+class myDataArray {
 
     int num_lines = 0;
     String[] lines = new String[10];
